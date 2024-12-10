@@ -6,4 +6,4 @@ This project is focused on exploring and implementing various techniques in imag
 4. [WEEK 4]() : Siamese Neural Networks - Face Recognition
 
 
-You should start your work at the earliest each week so that you have ample time to complete assignments by the end of the week. This approach will help you manage your tasks effectively and ensure that you meet deadlines without feeling rushed.
+To ensure timely completion of assignments, it is crucial to start each week as early as possible.
