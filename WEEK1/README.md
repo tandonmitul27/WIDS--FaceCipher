@@ -3,4 +3,4 @@ Welcome to the first week of our Journey! This week, we’ll start by equipping 
 While certain topics may not be directly incorporated into the final project, they enhance my understanding of machine learning concepts and offer significant experience in the field of computer vision.
 
 1. We will begin with a brief revision of [Python](https://scrimba.com/learn/python) fundamentals to ensure everyone is on the same page.(You may skip this section if you are already familiar with Python)
-2. We'll cover [ML Libaries / Python Modules](WEEK1/Python Modules)to facilitate efficient data manipulation and visualization.
+2. We'll cover [ML Libaries / Python Modules]()to facilitate efficient data manipulation and visualization.
