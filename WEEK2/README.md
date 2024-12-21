@@ -1,4 +1,4 @@
-#*Welcome to Week 2*
+# Welcome to Week 2
 This week, we'll dive into the world of Deep Learning. We’ll start by equipping ourselves with the most essential Deep Learning framework, TensorFlow/PyTorch, which are crucial for building and training Deep Learning models. Following this, we’ll delve into the foundational concepts of neural networks and explore the YOLOv8 architecture for object classifictaion. Additionally, we'll practice on various datasets to test our learning.
 Stay engaged and practice consistently to make the most of this learning experience. Keep your enthusiasm high, and let’s continue this exciting journey of machine learning together!
 
